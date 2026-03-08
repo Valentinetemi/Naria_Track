@@ -10,7 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'NairaTrack - Personal Finance Tracker',
   description: 'Smart spending tracker for Nigerian students. Track your ₦ with AI insights, budget tracking, and spending analytics.',
-  generator: 'v0.app',
   viewport: {
     width: 'device-width',
     initialScale: 1,
