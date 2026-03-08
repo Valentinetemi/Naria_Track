@@ -27,10 +27,11 @@ NairaTrack helps Nigerian students track daily expenses, understand spending pat
 
 ## Live Demo
 
-🔗 [Live on CreateOS](#) — link coming soon
+🔗 [Live on CreateOS](https://dep-e2749c16-9fdf-4c88-9a7c-90375b0ec27d.tyzo.nodeops.app/) — link coming soon
 
 ## Built by
 
 **Temiloluwa Valentine** — AI/ML Engineer & Computer Vision Developer
 - X: [@temivalentine_](https://x.com/temivalentine_)
 - GitHub: [Valentinetemi](https://github.com/Valentinetemi)
+
